@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "milk",
+  "base_artist": "04 Limited Sazabys",
+  "createdAt": "2026-02-11T09:22:14.415083Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Cheerios & Chocolate Milk",
+      "artist": "Theo Kandel",
+      "has_synced": true,
+      "path": "select/01_Cheerios_&_Chocolate_Milk_Theo_Kandel.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Milk",
+      "artist": "f(x)",
+      "has_synced": true,
+      "path": "select/02_Milk_f(x).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Milk",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/03_Milk_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Milk (Goldie’s Completely Trashed remix)",
+      "artist": "Garbage",
+      "has_synced": false,
+      "path": "select/04_Milk_(Goldie’s_Completely_Trashed_remix)_Garbage.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Milk (Goldie - Completely Trashed Mix)",
+      "artist": "Garbage",
+      "has_synced": false,
+      "path": "select/05_Milk_(Goldie_-_Completely_Trashed_Mix)_Garbage.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Milk (Goldie - VIP Rufige Trash Your Shit Mix) ( 2015 - Remaster)",
+      "artist": "Garbage feat. Goldie",
+      "has_synced": false,
+      "path": "select/06_Milk_(Goldie_-_VIP_Rufige_Trash_Your_Shit_Mix)_(_2015_-_Remaster)_Garbage_feat._Goldie.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Milk (Goldie - VIP Rufige Trash Your Shit Mix)",
+      "artist": "Garbage",
+      "has_synced": false,
+      "path": "select/07_Milk_(Goldie_-_VIP_Rufige_Trash_Your_Shit_Mix)_Garbage.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Milk (Massive Attack - Classic Mix) ( 2015 - Remaster)",
+      "artist": "Garbage feat. Massive Attack",
+      "has_synced": false,
+      "path": "select/08_Milk_(Massive_Attack_-_Classic_Mix)_(_2015_-_Remaster)_Garbage_feat._Massive_Attack.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Milk (Massive Attack - Classic Mix)",
+      "artist": "Garbage",
+      "has_synced": false,
+      "path": "select/09_Milk_(Massive_Attack_-_Classic_Mix)_Garbage.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Milk (Massive Attack - Primal Mix) ( 2015 - Remaster)",
+      "artist": "Garbage feat. Massive Attack",
+      "has_synced": false,
+      "path": "select/10_Milk_(Massive_Attack_-_Primal_Mix)_(_2015_-_Remaster)_Garbage_feat._Massive_Attack.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Milk (Massive Attack - Primal Mix)",
+      "artist": "Garbage",
+      "has_synced": false,
+      "path": "select/11_Milk_(Massive_Attack_-_Primal_Mix)_Garbage.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Milk (Massive Attack Remix)",
+      "artist": "Garbage",
+      "has_synced": false,
+      "path": "select/12_Milk_(Massive_Attack_Remix)_Garbage.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Milk (Massive Attack - Ultra Classic Mix) ( 2015 - Remaster)",
+      "artist": "Garbage feat. Massive Attack",
+      "has_synced": false,
+      "path": "select/13_Milk_(Massive_Attack_-_Ultra_Classic_Mix)_(_2015_-_Remaster)_Garbage_feat._Massive_Attack.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Milk (Massive Attack - Ultra Classic Mix)",
+      "artist": "Garbage",
+      "has_synced": false,
+      "path": "select/14_Milk_(Massive_Attack_-_Ultra_Classic_Mix)_Garbage.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Milk (Massive Attack)",
+      "artist": "Garbage",
+      "has_synced": true,
+      "path": "select/15_Milk_(Massive_Attack)_Garbage.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Milk (Rabbit in the Moon - Butchered Vegas Mix) ( 2015 - Remaster)",
+      "artist": "Garbage feat. Rabbit In The Moon",
+      "has_synced": false,
+      "path": "select/16_Milk_(Rabbit_in_the_Moon_-_Butchered_Vegas_Mix)_(_2015_-_Remaster)_Garbage_feat._Rabbit_In_The_Moon.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Milk (Rabbit In The Moon - Butchered Vegas Mix)",
+      "artist": "Garbage",
+      "has_synced": false,
+      "path": "select/17_Milk_(Rabbit_In_The_Moon_-_Butchered_Vegas_Mix)_Garbage.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "milk",
+      "artist": "04 Limited Sazabys",
+      "has_synced": false,
+      "path": "select/pl_01_milk_04_Limited_Sazabys.txt"
+    }
+  ]
+}
